@@ -1,16 +1,40 @@
-### Hi there 👋
+### Apple6050
 
-<!--
-**Apple6050/Apple6050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 설명
 
-Here are some ideas to get you started:
+안녕하세요. 저는 대한민국 서울특별시에서 코딩하는 Apple6050입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+저는 학샐 개발자이고, Kotlin,Java를 좋아합니다.
+
+그리고 저는 Minecraft Java Edition을 좋아합니다. :heartpulse:
+
+## 사용 가능한 언어
+
+> 마스터한 언어
+> - Kotlin
+> - Java
+> 
+> 배우는 중인 언어
+> - Node.js (JavaScript / TypeScript)
+>
+> 언젠가는 배울 언어
+> - Scala
+
+## 내가 좋아하는 User와 Repositories
+
+> - [JetBrains - Kotlin](https://github.com/JetBrains/kotlin)
+> - [noonmaru - Parkour-Maker](https://github.com/noonmaru/parkour-maker)
+> - [Mojang - Brigadier](https://github.com/Mojang/brigadier)
+> - [dmulloy2 - ProtocolLib](https://github.com/dmulloy2/ProtocolLib)
+> - [johnrengelman - shadow](https://github.com/johnrengelman/shadow)
+> - [PatrickKR](https://github.com/Patrick-mc)
+> - [PaperMC - Paper](https://github.com/PaperMC/Paper)
+> - [Noonmaru](https://github.com/noonmaru)
+
+## Stats
+
+![Contribution](https://github-readme-stats.vercel.app/api?username=Apple6050&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Apple6050&cache_seconds=1800&theme=algolia)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=Apple6050&)](https://solved.ac/Apple6050)
