@@ -36,5 +36,3 @@
 ![Contribution](https://github-readme-stats.vercel.app/api?username=Apple6050&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Apple6050&cache_seconds=1800&theme=algolia)
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=Apple6050&)](https://solved.ac/Apple6050)
