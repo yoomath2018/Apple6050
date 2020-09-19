@@ -2,9 +2,9 @@
 
 ## 설명
 
-안녕하세요. 저는 대한민국 서울특별시에서 코딩하는 Apple6050입니다.
+안녕하세요. 저는 대한민국에 사는 Apple6050입니다.
 
-저는 학샐 개발자이고, Kotlin,Java를 좋아합니다.
+저는 학생 개발자이고, Kotlin,Java를 좋아합니다.
 
 그리고 저는 Minecraft Java Edition을 좋아합니다. :heartpulse:
 
@@ -34,5 +34,3 @@
 ## Stats
 
 ![Contribution](https://github-readme-stats.vercel.app/api?username=Apple6050&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Apple6050&cache_seconds=1800&theme=algolia)
