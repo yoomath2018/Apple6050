@@ -8,6 +8,7 @@
 
 그리고 저는 Minecraft Java Edition을 좋아합니다. :heartpulse:
 그리고 조직은 Epic Games이고 더 많은 조직에 들어갈 예정이오니 초대 부탁드립니다 ^^
+Team-IF 들어가고싶은데 ㅜ.ㅜ
 
 ## 사용 가능한 언어
 
